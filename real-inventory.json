@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-06-17T11:25:09.028061",
+  "source": "AWS Live",
+  "resources": [
+    {
+      "type": "EC2",
+      "id": "i-04bf3604535fa43ef",
+      "instance_type": "t3.micro",
+      "region": "ap-south-1",
+      "state": "stopped"
+    },
+    {
+      "type": "S3",
+      "name": "akshay-devops-2026",
+      "created": "2026-05-25"
+    },
+    {
+      "type": "S3",
+      "name": "akshay-devops-962524",
+      "created": "2026-05-23"
+    },
+    {
+      "type": "S3",
+      "name": "akshay-devops-lab-2026",
+      "created": "2026-05-23"
+    },
+    {
+      "type": "S3",
+      "name": "akshay-devops-lab-2026-05",
+      "created": "2026-05-23"
+    }
+  ]
+}
